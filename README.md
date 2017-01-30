@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# redesocial
+Teste para CodeMiner42 sobre uma api de rede social de sobreviventes de um apocalipse Zumbi
+>>>>>>> 6167ea66f11cb90e288a906f6784bfc5601a9ea7
